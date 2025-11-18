@@ -60,7 +60,7 @@ microk8s kubectl get certificate
 NAME       READY   SECRET     AGE
 odoo-tls   True    odoo-tls   1m
 ```
-### Access your browser:
+### Access the odoo with your browser:
 `
 https://yourdomain.com
 `
