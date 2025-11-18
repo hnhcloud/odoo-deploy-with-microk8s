@@ -4,7 +4,7 @@ metadata:
   name: letsencrypt-prod
 spec:
   acme:
-    email: example@gmail.com <- fill-your-gmail
+    email: example@gmail.com  # <-- fill-your-gmail
     server: https://acme-v02.api.letsencrypt.org/directory
     privateKeySecretRef:
       name: letsencrypt-prod
