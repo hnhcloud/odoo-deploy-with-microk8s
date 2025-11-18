@@ -62,7 +62,7 @@ odoo-tls   True    odoo-tls   1m
 ```
 ### Access your browser:
 `
-https://k8s-odoo.itgateway.cloud
+https://yourdomain.com
 `
 
 *Note: You need to create DNS A Record on your domain provider (Namecheap, GoDaddy, Cloudflare, etc.):*
