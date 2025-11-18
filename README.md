@@ -65,6 +65,6 @@ odoo-tls   True    odoo-tls   1m
 https://yourdomain.com
 `
 
-*Note: You need to create DNS A Record on your domain provider (Namecheap, GoDaddy, Cloudflare, etc.):*
+*Note: Before you start, You need to create DNS A Record on your domain provider (Namecheap, GoDaddy, Cloudflare, etc.):*
 
 ***Powered by Htoo Eain Lin***
